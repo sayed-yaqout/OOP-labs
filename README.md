@@ -1,3 +1,3 @@
 # OOP-labs
 ITI OOP labs
-my ITI 41 SD track labs
+41 SD track C++ labs
