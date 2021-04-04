@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605802591 source:e:\iti_tasks\oop_c++\lab5\task2_cast_employee_to_person\main.cpp
+	<iostream>
+	<string.h>
+

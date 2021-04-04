@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605992144 source:e:\iti_tasks\oop_c++\lab5\task6_lighting _abagora_bonus\main.cpp
+	<iostream>
+	"graphics.h"
+	<chrono>
+	<thread>
+
+1605958955 e:\iti_tasks\oop_c++\lab5\task6_lighting _abagora_bonus\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+

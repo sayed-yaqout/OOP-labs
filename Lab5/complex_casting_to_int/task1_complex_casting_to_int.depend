@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1605733265 source:e:\iti_tasks\oop_c++\lab5\task1_complex_casting_to_int\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1541297840 e:\iti_tasks\oop_c++\lab5\task1_complex_casting_to_int\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+
